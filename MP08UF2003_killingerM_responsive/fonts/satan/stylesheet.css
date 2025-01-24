@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Who asks Satan';
+    src: url('WhoasksSatan.eot');
+    src: url('WhoasksSatan.eot?#iefix') format('embedded-opentype'),
+        url('WhoasksSatan.woff2') format('woff2'),
+        url('WhoasksSatan.woff') format('woff'),
+        url('WhoasksSatan.ttf') format('truetype'),
+        url('WhoasksSatan.svg#WhoasksSatan') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
